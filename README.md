@@ -2,7 +2,7 @@
 
 ### Artificial Intelligence & Machine Learning Student | Data Science | Python
 
-B.Tech student specializing in **Artificial Intelligence & Data Science**, focused on **Python, Machine Learning, Data Science, and practical software development**.
+Final-year **B.Tech student in Artificial Intelligence & Data Science**, focused on **Python, Machine Learning, Data Science, and practical software development**.
 
 I build projects to turn concepts into working applications while strengthening my foundations in **DSA, data analysis, and machine learning**.
 
@@ -10,7 +10,7 @@ I build projects to turn concepts into working applications while strengthening 
 
 ## About Me
 
-- 🎓 B.Tech — Artificial Intelligence & Data Science
+- 🎓 Final-year B.Tech — Artificial Intelligence & Data Science
 - 🤖 Focused on AI, Machine Learning & Data Science
 - 🐍 Working with Python, NumPy, Pandas and Machine Learning
 - 💻 Building practical AI/ML and software projects
@@ -59,7 +59,7 @@ Machine learning system for crop prediction and fertilizer recommendation using 
 
 **Python · Pandas · NumPy · Scikit-learn · Machine Learning**
 
-[View Project →](https://github.com/Mayank123J/Project-1)
+[View Project →](https://github.com/Mayank123J/Crop-Fertilizer-Recommendation-System)
 
 </td>
 </tr>
