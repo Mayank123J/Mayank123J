@@ -2,9 +2,9 @@
 
 ### Artificial Intelligence & Machine Learning Student | Data Science | Python
 
-B.Tech student specializing in **Artificial Intelligence & Data Science**, with a focus on **Python, Machine Learning, Data Science, and practical software development**.
+B.Tech student specializing in **Artificial Intelligence & Data Science**, focused on **Python, Machine Learning, Data Science, and practical software development**.
 
-I build projects to turn concepts into working applications and continuously strengthen my foundations in **DSA, data analysis, and machine learning**.
+I build projects to turn concepts into working applications while strengthening my foundations in **DSA, data analysis, and machine learning**.
 
 ---
 
@@ -13,7 +13,7 @@ I build projects to turn concepts into working applications and continuously str
 - 🎓 B.Tech — Artificial Intelligence & Data Science
 - 🤖 Focused on AI, Machine Learning & Data Science
 - 🐍 Working with Python, NumPy, Pandas and Machine Learning
-- 💻 Building practical projects across AI/ML and software development
+- 💻 Building practical AI/ML and software projects
 - 📚 Currently strengthening Data Structures & Algorithms and ML fundamentals
 - 🚀 Interested in building useful, real-world AI-powered solutions
 
@@ -23,7 +23,7 @@ I build projects to turn concepts into working applications and continuously str
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### AI / Data Science
 
@@ -31,7 +31,7 @@ I build projects to turn concepts into working applications and continuously str
 
 ### Development & Tools
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
@@ -73,13 +73,6 @@ Machine learning system for crop prediction and fertilizer recommendation using 
 *April 2025 – May 2025*
 
 Worked on an agricultural sustainability project involving machine learning-based crop prediction and fertilizer recommendation using agricultural records.
-
----
-
-## Publication
-
-**Photonic AI and Its Application in Energy Optimization**  
-Accepted for publication in **IIP Series, Volume 6B (2026)**.
 
 ---
 
