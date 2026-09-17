@@ -1,6 +1,10 @@
-# Mayank Jain
+<div align="center">
 
-### Artificial Intelligence & Machine Learning Student | Data Science | Python
+# Hi, I'm Mayank Jain 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=560&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Building+practical+AI%2FML+solutions)](https://git.io/typing-svg)
+
+</div>
 
 Final-year **B.Tech student in Artificial Intelligence & Data Science**, focused on **Python, Machine Learning, Data Science, and practical software development**.
 
@@ -41,6 +45,17 @@ I build projects to turn concepts into working applications while strengthening 
 <tr>
 <td width="50%" valign="top">
 
+### 🌱 Crop & Fertilizer Recommendation
+
+ML system for crop prediction and fertilizer recommendation, built on 2,200+ agricultural records using a Decision Tree Classifier — **~98% accuracy**.
+
+**Python · Pandas · NumPy · Scikit-learn · Machine Learning**
+
+[View Project →](https://github.com/Mayank123J/Crop-Fertilizer-Recommendation-System)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🃏 Blackjack Game
 
 Interactive browser-based Blackjack game developed from a CLI implementation and transformed into a React web application.
@@ -51,17 +66,6 @@ Interactive browser-based Blackjack game developed from a CLI implementation and
 [Live Demo →](https://blackjack-game-six-alpha.vercel.app)
 
 </td>
-<td width="50%" valign="top">
-
-### 🌱 Crop & Fertilizer Recommendation
-
-Machine learning system for crop prediction and fertilizer recommendation using agricultural data.
-
-**Python · Pandas · NumPy · Scikit-learn · Machine Learning**
-
-[View Project →](https://github.com/Mayank123J/Crop-Fertilizer-Recommendation-System)
-
-</td>
 </tr>
 </table>
 
@@ -69,22 +73,41 @@ Machine learning system for crop prediction and fertilizer recommendation using 
 
 ## Experience
 
-**AI & Data Analytics Intern — Shell India Markets Pvt. Ltd.**  
+**AI & Data Analytics Intern — Shell India Markets Pvt. Ltd.**
 *April 2025 – May 2025*
 
-Worked on an agricultural sustainability project involving machine learning-based crop prediction and fertilizer recommendation using agricultural records.
+Completed under the **AICTE Skills4Future** program (via Edunet Foundation), working on an agricultural sustainability project — machine learning-based crop prediction and fertilizer recommendation using real agricultural records.
+
+## Leadership
+
+**Manager, Arya Science and Technology Club**
+
+Organized 8–10 college events including debates, workshops, website-making, poster-making, idea pitching, and quizzes.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayank123J&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank123J&layout=compact&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Mayank123J&hide_border=true)
+
+</div>
 
 ---
 
 ## Currently Learning
 
-**Data Structures & Algorithms** → **Advanced Python & Data Science** → **Machine Learning** → **Advanced ML**
+**Data Structures & Algorithms** → **Advanced Python & Data Science** → **Advanced Machine Learning**
 
 ---
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayank%20Jain-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-jain-0b8414322/) [![GitHub](https://img.shields.io/badge/GitHub-Mayank123J-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mayank123J)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayank%20Jain-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-jain-0b8414322/) [![GitHub](https://img.shields.io/badge/GitHub-Mayank123J-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mayank123J) [![Resume](https://img.shields.io/badge/Resume-View-2F80ED?style=flat-square&logo=googledocs&logoColor=white)](#)
 
 ---
 
