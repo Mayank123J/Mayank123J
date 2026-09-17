@@ -1,85 +1,98 @@
-# Hi, I'm Mayank Jain
+# Mayank Jain
 
 ### Artificial Intelligence & Machine Learning Student | Data Science | Python
 
-I'm a B.Tech student specializing in **Artificial Intelligence & Data Science**, focused on building practical solutions using **Python, Machine Learning, and Data Science**.
+B.Tech student specializing in **Artificial Intelligence & Data Science**, with a focus on **Python, Machine Learning, Data Science, and practical software development**.
 
-I enjoy turning ideas into working applications by combining data, machine learning models, and software development.
+I build projects to turn concepts into working applications and continuously strengthen my foundations in **DSA, data analysis, and machine learning**.
 
 ---
 
 ## About Me
 
-* 🎓 B.Tech in Artificial Intelligence & Data Science
-* 🤖 Focused on Artificial Intelligence, Machine Learning & Data Science
-* 🐍 Working with Python, NumPy, Pandas and Machine Learning
-* 💻 Building practical AI/ML and software projects
-* 📚 Currently strengthening my DSA and Machine Learning fundamentals
-* 🚀 Interested in developing real-world AI-powered applications
+- 🎓 B.Tech — Artificial Intelligence & Data Science
+- 🤖 Focused on AI, Machine Learning & Data Science
+- 🐍 Working with Python, NumPy, Pandas and Machine Learning
+- 💻 Building practical projects across AI/ML and software development
+- 📚 Currently strengthening Data Structures & Algorithms and ML fundamentals
+- 🚀 Interested in building useful, real-world AI-powered solutions
 
 ---
 
-## Technical Skills
+## Tech Stack
 
-**Languages:**
-Python • C++ • Java • SQL
+### Languages
 
-**Data Science & AI/ML:**
-NumPy • Pandas • Machine Learning • Data Analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-**Development:**
-React • Java • MySQL • HTML • CSS • JavaScript
+### AI / Data Science
 
-**Tools & Platforms:**
-Git • GitHub • VS Code • Google Colab • Vercel
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square)
+
+### Development & Tools
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
 ## Featured Projects
 
-### 🃏 Blackjack Web Game
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A browser-based Blackjack game developed by transforming a CLI implementation into an interactive React web application.
+### 🃏 Blackjack Game
 
-**Focus:** React • JavaScript • GitHub • Vercel
+Interactive browser-based Blackjack game developed from a CLI implementation and transformed into a React web application.
 
-### 🌱 Crop & Fertilizer Recommendation System
+**React · JavaScript · CSS · Vercel**
 
-Machine learning-based system for predicting suitable crops and recommending fertilizers using agricultural data.
+[View Project →](https://github.com/Mayank123J/Blackjack-Game)  
+[Live Demo →](https://blackjack-game-six-alpha.vercel.app)
 
-**Focus:** Python • Pandas • NumPy • Scikit-learn • Data Analysis • Machine Learning
+</td>
+<td width="50%" valign="top">
+
+### 🌱 Crop & Fertilizer Recommendation
+
+Machine learning system for crop prediction and fertilizer recommendation using agricultural data.
+
+**Python · Pandas · NumPy · Scikit-learn · Machine Learning**
+
+[View Project →](https://github.com/Mayank123J/Project-1)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Experience
 
-**AI & Data Analytics Intern — Shell India Markets Pvt. Ltd.**
+**AI & Data Analytics Intern — Shell India Markets Pvt. Ltd.**  
+*April 2025 – May 2025*
 
-Worked on an agricultural sustainability project involving machine learning-based crop prediction and fertilizer recommendation.
+Worked on an agricultural sustainability project involving machine learning-based crop prediction and fertilizer recommendation using agricultural records.
+
+---
+
+## Publication
+
+**Photonic AI and Its Application in Energy Optimization**  
+Accepted for publication in **IIP Series, Volume 6B (2026)**.
 
 ---
 
 ## Currently Learning
 
-```text
-Data Structures & Algorithms
-        ↓
-Advanced Python & Data Science
-        ↓
-Machine Learning
-        ↓
-Advanced Machine Learning
-        ↓
-Real-World AI Applications
-```
+**Data Structures & Algorithms** → **Advanced Python & Data Science** → **Machine Learning** → **Advanced ML**
 
 ---
 
 ## Connect With Me
 
-* LinkedIn: [Mayank Jain](https://www.linkedin.com/in/mayank-jain-0b8414322/)
-* GitHub: [Mayank123J](https://github.com/Mayank123J)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayank%20Jain-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-jain-0b8414322/) [![GitHub](https://img.shields.io/badge/GitHub-Mayank123J-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mayank123J)
 
 ---
 
-### Building. Learning. Improving.
+*Learning continuously. Building practically.*
