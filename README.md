@@ -90,10 +90,10 @@ Organized 8–10 college events including debates, workshops, website-making, po
 
 <div align="center">
 
-![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayank123J&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank123J&layout=compact&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Mayank123J&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="Mayank's GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank123J&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Mayank's most-used languages" />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Mayank123J&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=Mayank123J&theme=github-dark-blue&hide_border=true" height="165" alt="Mayank's GitHub contribution streak" />
 
 </div>
 
