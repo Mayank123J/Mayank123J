@@ -86,19 +86,6 @@ Organized 8–10 college events including debates, workshops, website-making, po
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mayank123J&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="Mayank's GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank123J&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Mayank's most-used languages" />
-
-<img src="https://streak-stats.demolab.com?user=Mayank123J&theme=github-dark-blue&hide_border=true" height="165" alt="Mayank's GitHub contribution streak" />
-
-</div>
-
----
-
 ## Currently Learning
 
 **Data Structures & Algorithms** → **Advanced Python & Data Science** → **Advanced Machine Learning**
